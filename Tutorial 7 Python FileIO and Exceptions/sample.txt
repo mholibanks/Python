@@ -1,0 +1,5 @@
+Sally, Betty, Estella and Joan belong to a knitting group. 
+
+Sally loaned 7 balls of wool to Betty. But Sally borrowed 15 balls of wool from Estella and 32 balls from Joan. Moreover, Joan owes 3 balls to Estella and 7 balls to Betty. One day the women got together at Betty’s house to straighten out their accounts. 
+
+Which woman left with 18 more balls of wool than she came with?

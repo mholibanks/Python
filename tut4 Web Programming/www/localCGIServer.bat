@@ -1,0 +1,1 @@
+c:\Python342\python.exe localCGIServer.py

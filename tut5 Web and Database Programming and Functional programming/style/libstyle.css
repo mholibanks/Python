@@ -1,0 +1,30 @@
+#header{
+    font-size: 20px;
+    color: white;
+    font-style:bold;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+        }
+
+
+
+
+DIV{
+    border: 2px solid gold;
+    border-radius: 10px;
+    border-width: medium;
+    width:360px;
+    height: 150px;
+    background-color: lightblue;
+    opacity: .80;
+    }
+
+#booktable{font-family: "Trebuchet MS", Roman New Times, Helvetica, sans-serif;width: 90%;border-collapse: collapse;}
+#booktable td, 
+#booktable th {font-size: 1em;border: 3px solid yellow;padding: 4px;background-color: lightgrey;}
+#booktable th {font-size: 1.1em;text-align: left;padding-top: 5px;background-color: brown;color: white;}
+#booktable tr.alt td {color: #000000;background-color: brown;}
+
+#homepage{font-size: 30px;
+          text-shadow: 2px 2px 5px white;
+          color:skyblue;
+        }
